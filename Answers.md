@@ -9,7 +9,7 @@
 
 2. What is the retreival time complexity for the following data structures?
    - **Linked List**
-     > O(n)
+     > Answer is: O(n)
    - **Hash Table**
      - O(n)
    - **Binary Search Trees**
