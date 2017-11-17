@@ -8,12 +8,12 @@
  - FIFO - First In First Out
 
 2. What is the retreival time complexity for the following data structures?
-- Linked List
-  - O(n)
-- Hash Table
-  - O(n)
-- Binary Search Trees
-  - O(log n)
+   - Linked List
+     - O(n)
+   - Hash Table
+     - O(n)
+   - Binary Search Trees
+     - O(log n)
 
 3. What are some advantages to using a Hash Tables over an array in JavaScript?
 
