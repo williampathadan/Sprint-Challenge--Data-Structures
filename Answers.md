@@ -3,7 +3,8 @@
 
 1. What are the order of insertions/removals for the following data structures?
    - **Stack**
-     Answer is: LIFO - Last In First Out
+   
+     `Answer is: LIFO - Last In First Out`
    - **Queue**
     - Answer is: FIFO - First In First Out
 
