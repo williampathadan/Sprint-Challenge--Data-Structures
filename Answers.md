@@ -4,19 +4,25 @@
 1. What are the order of insertions/removals for the following data structures?
    - **Stack**
 
-     *Answer*: LIFO - Last In First Out
+     *Answer*: 
+     LIFO - Last In First Out
+     We use methods like `push()` to add & `pop()` to remove elements from **Stack**
    - **Queue**
 
-     *Answer*: FIFO - First In First Out
+     *Answer*: 
+     FIFO - First In First Out
+     We use methods like `enqueue()` to add & `dequeue()` to remove elements from **Queue**
 
 
 2. What is the retreival time complexity for the following data structures?
    - **Linked List**
      
      *Answer*: O(n)
+
    - **Hash Table**
      
      *Answer*: O(n)
+     
    - **Binary Search Trees**
      
      *Answer*: O(log n)
