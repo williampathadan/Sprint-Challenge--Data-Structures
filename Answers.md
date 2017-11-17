@@ -2,14 +2,14 @@
 ### Sprint Challenge - Data Structures
 
 1. What are the order of insertions/removals for the following data structures?
-- Stack
- - LIFO - Last In First Out
-- Queue
- - FIFO - First In First Out
+   - Stack
+    - LIFO - Last In First Out
+   - Queue
+    - FIFO - First In First Out
 
 2. What is the retreival time complexity for the following data structures?
    - Linked List
-     - O(n)
+     O(n)
    - Hash Table
      - O(n)
    - Binary Search Trees
