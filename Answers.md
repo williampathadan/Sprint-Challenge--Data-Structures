@@ -2,17 +2,17 @@
 ### Sprint Challenge - Data Structures
 
 1. What are the order of insertions/removals for the following data structures?
-   - Stack
+   - **Stack**
     - LIFO - Last In First Out
-   - Queue
+   - **Queue**
     - FIFO - First In First Out
 
 2. What is the retreival time complexity for the following data structures?
-   - Linked List
-     O(n)
-   - Hash Table
+   - **Linked List**
+     > O(n)
+   - **Hash Table**
      - O(n)
-   - Binary Search Trees
+   - **Binary Search Trees**
      - O(log n)
 
 3. What are some advantages to using a Hash Tables over an array in JavaScript?
