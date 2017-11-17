@@ -4,18 +4,21 @@
 1. What are the order of insertions/removals for the following data structures?
    - **Stack**
 
-     Answer is: LIFO - Last In First Out
+     *Answer*: LIFO - Last In First Out
    - **Queue**
 
-     Answer is: FIFO - First In First Out
+     *Answer*: FIFO - First In First Out
 
 2. What is the retreival time complexity for the following data structures?
    - **Linked List**
-     > Answer is: O(n)
+     
+     *Answer*: O(n)
    - **Hash Table**
-     - Answer is: O(n)
+     
+     *Answer*: O(n)
    - **Binary Search Trees**
-     - Answer is: O(log n)
+     
+     *Answer*: O(log n)
 
 3. What are some advantages to using a Hash Tables over an array in JavaScript?
 
